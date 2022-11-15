@@ -46,10 +46,3 @@ object **YOUR NAME** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/lucia-riva/
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][[https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/lucia-riva/]
