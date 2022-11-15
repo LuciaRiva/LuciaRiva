@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @LuciaRiva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm interested in the world of programming
+- 🌱 I am currently learning in the systems area of the company Grupo Pedro Vara.
 
-<!---
-LuciaRiva/LuciaRiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+I like to create great software and keep learning day by day.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
