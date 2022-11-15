@@ -12,22 +12,18 @@ I like to create great software and keep learning day by day.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **YOUR NAME** {
+ val name = "Lucia Riva"
+ val acknowledgements = "Full Stack"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val primarySkillset = "proactiva, autonoma, dinamica"
+ val languages = listOf("JavaScript", "HTML5", "CSS", "Node.js", "React") 
 
 }
 ```
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -46,11 +42,8 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[website]: https://codedev.ga/](https://luciariva.000webhostapp.com/index.html
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/lucia-riva/
 <br>
 
 #### Rede Sociais!
@@ -59,4 +52,4 @@ object **SEU NOME** {
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][[https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/lucia-riva/]
