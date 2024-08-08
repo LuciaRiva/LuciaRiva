@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuciaRiva
 - 👀 I'm interested in the world of programming
-- 🌱 I am currently learning in the systems area of the company Grupo Pedro Vara.
+- 🌱 I am currently learning in the systems area of the company Bitali.
 
 ###  Hi devs 👋
 
