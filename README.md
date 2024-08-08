@@ -7,29 +7,32 @@
 
 I like to create great software and keep learning day by day.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+## <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object LuciaRiva {
  val name = "Lucia Riva"
- val acknowledgements = "Full Stack"
+ val acknowledgements = "Frontend Developer & UX/UI Designer"
  
- val primarySkillset = "proactiva, autonoma, dinamica"
- val languages = listOf("JavaScript", "HTML5", "CSS", "Node.js", "React") 
-
+ val primarySkillset = "Proactiva, autónoma, dinámica, organizada, resolutiva"
+ val languages = listOf("JavaScript", "HTML5", "CSS", "Node.js", "Redux", "Figma", "Adobe XD")
 }
+
 ```
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 
 ## **GitHub Estatísticas**
@@ -42,6 +45,8 @@ object LuciaRiva {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://luciariva.000webhostapp.com/index.html
-[linkedin]: https://www.linkedin.com/in/lucia-riva/
 <br>
+## **Conectate conmigo**
+<img align="left" alt="website" width="22px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
+<img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+
