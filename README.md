@@ -42,7 +42,7 @@ object LuciaRiva {
 </a>
 
 <a href="https://github.com/luciariva">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciariva&show_icons=true&theme=dracula&line_height=27" alt="Lucia Riva's GitHub stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciariva&show_icons=true&theme=radical&line_height=27" alt="Lucia Riva's GitHub stats"/>
 </a>
 
 <br>
