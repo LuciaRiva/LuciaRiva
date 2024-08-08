@@ -45,8 +45,8 @@ object LuciaRiva {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciariva&show_icons=true&theme=merko&line_height=27" alt="Lucia Riva's GitHub stats"/>
 </a>
 
-<br>
 ## **Conectate conmigo**
-<img align="left" alt="website" width="22px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
-<img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+<img align="left" alt="website" width="45px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
+<img align="left" alt="linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 
+<br>
