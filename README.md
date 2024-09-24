@@ -32,8 +32,8 @@ object LuciaRiva {
 </p>
 
 ## **🌐 Connect with Me**
-<img align="left" alt="website" width="45px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
-<img align="left" alt="linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+<a href="https://www.linkedin.com/in/lucia-riva/"><img align="left" alt="linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" /></a>
+<a href="#"><img align="left" alt="website" width="45px" src="https://img.icons8.com/fluency/48/000000/domain.png" /></a>
 <a href="https://www.behance.net/LRiva"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 
 ## **📊 GitHub Stats**
