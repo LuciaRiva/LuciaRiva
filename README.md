@@ -37,9 +37,5 @@ object LuciaRiva {
 <a href="https://www.behance.net/LRiva"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 
 
-<a href="https://github.com/luciariva">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciariva&show_icons=true&theme=merko&line_height=27" alt="Lucia Riva's GitHub stats"/>
-</a>
-
 
 <br>
