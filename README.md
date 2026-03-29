@@ -36,11 +36,6 @@ object LuciaRiva {
 <a href="#"><img align="left" alt="website" width="45px" src="https://img.icons8.com/fluency/48/000000/domain.png" /></a>
 <a href="https://www.behance.net/LRiva"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 
-## **📊 GitHub Stats**
-
-<a href="https://github.com/luciariva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciariva&theme=merko&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/luciariva">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciariva&show_icons=true&theme=merko&line_height=27" alt="Lucia Riva's GitHub stats"/>
